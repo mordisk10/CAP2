@@ -1,0 +1,82 @@
+schools:
+  - name: Redwood University
+    city: San Francisco
+    capacity: 4
+  - name: Clearwater Institute of Technology
+    city: Boston
+    capacity: 3
+  - name: Westbridge College
+    city: Chicago
+    capacity: 3
+
+students:
+  - name: Maya
+    city: San Francisco
+    score: 80
+    preferences:
+      - Redwood University
+      - Westbridge College
+      - Clearwater Institute of Technology
+  - name: Leo
+    city: Boston
+    score: 80
+    preferences:
+      - Clearwater Institute of Technology
+      - Redwood University
+      - Westbridge College
+  - name: Niamh
+    city: Chicago
+    score: 80
+    preferences:
+      - Westbridge College
+      - Redwood University
+      - Clearwater Institute of Technology
+  - name: Tobias
+    city: Seattle
+    score: 80
+    preferences:
+      - Redwood University
+      - Clearwater Institute of Technology
+      - Westbridge College
+  - name: Freya
+    city: Denver
+    score: 80
+    preferences:
+      - Clearwater Institute of Technology
+      - Westbridge College
+      - Redwood University
+  - name: Jules
+    city: Austin
+    score: 80
+    preferences:
+      - Westbridge College
+      - Clearwater Institute of Technology
+      - Redwood University
+  - name: Zara
+    city: Miami
+    score: 80
+    preferences:
+      - Redwood University
+      - Clearwater Institute of Technology
+      - Westbridge College
+  - name: Ella
+    city: Minneapolis
+    score: 80
+    preferences:
+      - Clearwater Institute of Technology
+      - Redwood University
+      - Westbridge College
+  - name: Cormac
+    city: New Orleans
+    score: 80
+    preferences:
+      - Westbridge College
+      - Redwood University
+      - Clearwater Institute of Technology
+  - name: Milan
+    city: Portland
+    score: 80
+    preferences:
+      - Redwood University
+      - Westbridge College
+      - Clearwater Institute of Technology
